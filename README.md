@@ -1,1 +1,1 @@
-# ScanMetasploit
+Este script realiza uma varredura na rede especificada usando o nmap, identifica vulnerabilidades com o Metasploit e tenta explorar as vulnerabilidades encontradas. Os resultados são armazenados em um diretório especificado e exibidos na tela.
